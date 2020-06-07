@@ -1,0 +1,39 @@
+body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5rem;
+    background-color: wheat;
+    /*background-image: url("../images/Fondo.jpg");*/
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: top;  
+}
+
+@font-face {
+    font-family: miFuente;
+    src: url("../DancingScript-VariableFont_wght.ttf");
+  }
+  
+
+
+img{
+    border: #000080 4px solid;
+}
+
+img:hover{
+    border:grey 20px solid;
+}
+
+h1{
+  
+    color:#000080;
+}
+
+h2{
+    color:blue;
+}
+
+p{
+    font-family: miFuente;
+    font-size:25px ;
+}
